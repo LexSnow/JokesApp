@@ -1,5 +1,6 @@
-package com.lex.norris.chuck;
+package com.lex.chucknorrisjokesapp.service;
 
+import com.lex.chucknorrisjokesapp.service.JokesService;
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
 
